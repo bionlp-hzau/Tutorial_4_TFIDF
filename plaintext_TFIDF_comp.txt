@@ -1,0 +1,4 @@
+This is the file that need to calculate the TFIDF for each term.
+Please perform your own coding. 
+Thanks.
+I really love math and computer science!
